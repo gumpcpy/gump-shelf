@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="800" viewBox="0 0 640 800" role="img" aria-label="night lamp">
+  <defs>
+    <radialGradient id="glow" cx="50%" cy="42%" r="48%">
+      <stop offset="0%" stop-color="#f4d7a0"/>
+      <stop offset="55%" stop-color="#c9894a" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#1a1610" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="640" height="800" fill="#1c1914"/>
+  <rect width="640" height="800" fill="url(#glow)"/>
+  <path d="M320 210c-62 0-108 48-108 108 0 46 28 78 68 96v36h80v-36c40-18 68-50 68-96 0-60-46-108-108-108z" fill="#e8c27a"/>
+  <rect x="300" y="450" width="40" height="90" rx="6" fill="#d9c4a0"/>
+  <rect x="250" y="540" width="140" height="18" rx="9" fill="#b08968"/>
+  <circle cx="320" cy="318" r="28" fill="#fff6d8" opacity="0.85"/>
+</svg>

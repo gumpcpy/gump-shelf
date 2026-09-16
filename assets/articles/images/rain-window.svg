@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" role="img" aria-label="rain on a window">
+  <defs>
+    <linearGradient id="pane" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#d7dee4"/>
+      <stop offset="100%" stop-color="#9aa7b2"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="720" fill="#6f7c86"/>
+  <rect x="80" y="48" width="1040" height="624" fill="url(#pane)"/>
+  <g fill="none" stroke="#e8eef2" stroke-width="2" opacity="0.75">
+    <path d="M180 80c20 90 8 160 28 250M260 70c8 120-20 200 10 320M340 90c16 80 4 210 22 300M470 60c-10 140 24 220 6 360M610 80c18 110-16 240 12 340M760 70c8 150 30 230 4 350M890 86c-14 120 20 210 8 330M1000 74c12 130-8 250 16 340"/>
+    <circle cx="214" cy="340" r="5" fill="#e8eef2" stroke="none"/>
+    <circle cx="502" cy="410" r="6" fill="#e8eef2" stroke="none"/>
+    <circle cx="788" cy="360" r="4" fill="#e8eef2" stroke="none"/>
+    <circle cx="968" cy="430" r="5" fill="#e8eef2" stroke="none"/>
+  </g>
+  <rect x="80" y="48" width="1040" height="624" fill="none" stroke="#4d565d" stroke-width="18"/>
+  <line x1="600" y1="48" x2="600" y2="672" stroke="#4d565d" stroke-width="10"/>
+  <line x1="80" y1="360" x2="1120" y2="360" stroke="#4d565d" stroke-width="10"/>
+</svg>

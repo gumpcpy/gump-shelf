@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1000" viewBox="0 0 800 1000" role="img" aria-label="pocket handbook cover">
+  <rect width="800" height="1000" fill="#ead9c0"/>
+  <rect x="48" y="48" width="704" height="904" fill="none" stroke="#8a4b32" stroke-width="3"/>
+  <path d="M160 220h480M160 780h480" stroke="#8a4b32" stroke-width="1.5" opacity="0.7"/>
+  <circle cx="400" cy="500" r="86" fill="none" stroke="#8a4b32" stroke-width="2"/>
+  <path d="M400 430v140M330 500h140" stroke="#8a4b32" stroke-width="2"/>
+</svg>

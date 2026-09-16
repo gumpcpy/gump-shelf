@@ -1,0 +1,53 @@
+{
+  "updatedAt": "2026-09-16T03:53:11.411Z",
+  "types": [
+    {
+      "id": "card",
+      "folder": "cards",
+      "label": "小卡",
+      "listingLabel": "小卡",
+      "href": "/gump-shelf/cards/",
+      "items": [
+        {
+          "id": "night-lamp",
+          "title": "夜燈",
+          "ready": "publish",
+          "href": "/gump-shelf/cards/night-lamp/",
+          "displayOrder": 1
+        }
+      ]
+    },
+    {
+      "id": "article",
+      "folder": "articles",
+      "label": "文章",
+      "listingLabel": "文章",
+      "href": "/gump-shelf/articles/",
+      "items": [
+        {
+          "id": "rain-on-the-sill",
+          "title": "雨落在無人的窗台",
+          "ready": "publish",
+          "href": "/gump-shelf/articles/rain-on-the-sill/",
+          "displayOrder": 1
+        }
+      ]
+    },
+    {
+      "id": "book",
+      "folder": "books",
+      "label": "書本",
+      "listingLabel": "書本／手冊",
+      "href": "/gump-shelf/books/",
+      "items": [
+        {
+          "id": "pocket-handbook",
+          "title": "口袋手冊",
+          "ready": "publish",
+          "href": "/gump-shelf/books/pocket-handbook/",
+          "displayOrder": 1
+        }
+      ]
+    }
+  ]
+}
