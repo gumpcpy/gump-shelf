@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T03:53:11.411Z",
+  "updatedAt": "2026-09-16T05:38:55.587Z",
   "types": [
     {
       "id": "card",
@@ -9,11 +9,40 @@
       "href": "/gump-shelf/cards/",
       "items": [
         {
-          "id": "night-lamp",
-          "title": "夜燈",
+          "id": "01-thexfiles",
+          "type": "card",
+          "title": "The X Files",
           "ready": "publish",
-          "href": "/gump-shelf/cards/night-lamp/",
-          "displayOrder": 1
+          "href": "/gump-shelf/cards/01-thexfiles/",
+          "displayOrder": 1,
+          "html": "<article class=\"piece piece-card\" data-type=\"card\" data-style=\"ink\">\n        <div class=\"piece-card-copy\">\n          <h1 class=\"piece-title\">The X Files</h1>\n<blockquote class=\"piece-quote\"><p>Mulder and Scully</p></blockquote>\n<p class=\"piece-caption caption-1\"></p>\n<div class=\"piece-body\"><p>冒險結束回到深夜的辦公大樓<br>各自在辦公室裡就著昏暗的檯燈打結案報告<br>CRT螢幕 機械鍵盤 <br>腦海回想記憶猶新卻來不及組織的片段線索</p><p>拼湊出一些真相也卷入一些陰謀<br>句子結尾閃爍的游標能看得見像素</p><p>黎明前的黑暗裡戴著眼鏡<br>真相隨著句子慢慢浮現<br>在報告被高層銷毀之前<br>找出真相</p></div>\n          <p class=\"piece-meta\">寫於 2026 年 9 月 16 日 11:00 · 改於 2026 年 9 月 16 日 11:00</p>\n          \n        </div>\n        <div class=\"piece-card-media\"><figure class=\"piece-image is-medium\"><img src=\"/gump-shelf/assets/cards/images/01-thexfiles.png\" alt=\"\"></figure></div>\n      </article>"
+        },
+        {
+          "id": "02-motel",
+          "type": "card",
+          "title": "Motel",
+          "ready": "publish",
+          "href": "/gump-shelf/cards/02-motel/",
+          "displayOrder": 2,
+          "html": "<article class=\"piece piece-card\" data-type=\"card\" data-style=\"ink\">\n        <div class=\"piece-card-copy\">\n          <h1 class=\"piece-title\">Motel</h1>\n<blockquote class=\"piece-quote\"><p>In &amp; Out</p></blockquote>\n<p class=\"piece-caption caption-1\"></p>\n<div class=\"piece-body\"><p>加油站附近一排房間透明可見<br>旁邊共生的Diner通常營業到p10<br>早午晚餐內容差不多<br>餓了就吃 累了就睡<br>訴求明確 不必交談<br>不用預約也不用身份<br>車子一停 現金交易<br>隨時可來 隨時可走</p></div>\n          <p class=\"piece-meta\">寫於 2026 年 9 月 16 日 11:00 · 改於 2026 年 9 月 16 日 11:00</p>\n          \n        </div>\n        <div class=\"piece-card-media\"><figure class=\"piece-image is-medium\"><img src=\"/gump-shelf/assets/cards/images/02-motel.png\" alt=\"\"></figure></div>\n      </article>"
+        },
+        {
+          "id": "03-空著手光著腳跑出去",
+          "type": "card",
+          "title": "空著手 光著腳 跑出去了",
+          "ready": "publish",
+          "href": "/gump-shelf/cards/03-%E7%A9%BA%E8%91%97%E6%89%8B%E5%85%89%E8%91%97%E8%85%B3%E8%B7%91%E5%87%BA%E5%8E%BB/",
+          "displayOrder": 3,
+          "html": "<article class=\"piece piece-card\" data-type=\"card\" data-style=\"ink\">\n        <div class=\"piece-card-copy\">\n          <h1 class=\"piece-title\">空著手 光著腳 跑出去了</h1>\n<blockquote class=\"piece-quote\"><p>一條命還在 就好</p></blockquote>\n<p class=\"piece-caption caption-1\"></p>\n<div class=\"piece-body\"><p>電影裡主角總在未知的醫院醒來，<br>記憶尚未恢復前<br>手無寸鐵的跑了出去</p><p>什麼都不需要<br>什麼都不用帶<br>一條命 還在 就好<br>想要做的 還有 就好</p></div>\n          <p class=\"piece-meta\">寫於 2026 年 9 月 16 日 11:00 · 改於 2026 年 9 月 16 日 11:00</p>\n          \n        </div>\n        \n      </article>"
+        },
+        {
+          "id": "05-帶著身體上路",
+          "type": "card",
+          "title": "Reacher",
+          "ready": "publish",
+          "href": "/gump-shelf/cards/05-%E5%B8%B6%E8%91%97%E8%BA%AB%E9%AB%94%E4%B8%8A%E8%B7%AF/",
+          "displayOrder": 5,
+          "html": "<article class=\"piece piece-card\" data-type=\"card\" data-style=\"ink\">\n        <div class=\"piece-card-copy\">\n          <h1 class=\"piece-title\">Reacher</h1>\n<blockquote class=\"piece-quote\"><p>身上這一套穿好就行</p></blockquote>\n<p class=\"piece-caption caption-1\"></p>\n<div class=\"piece-body\"><p>口袋裡有證件和一疊紙鈔<br>把東西記進腦子裡就不用擔心<br>把食物吃進肚子就不用保存<br>把錢花在自己身上就不怕不見</p></div>\n          <p class=\"piece-meta\">寫於 2026 年 9 月 16 日 11:00 · 改於 2026 年 9 月 16 日 11:00</p>\n          \n        </div>\n        \n      </article>"
         }
       ]
     },
@@ -25,11 +54,40 @@
       "href": "/gump-shelf/articles/",
       "items": [
         {
-          "id": "rain-on-the-sill",
-          "title": "雨落在無人的窗台",
+          "id": "01-山頂上的天文台",
+          "type": "article",
+          "title": "山頂上的天文台",
           "ready": "publish",
-          "href": "/gump-shelf/articles/rain-on-the-sill/",
-          "displayOrder": 1
+          "href": "/gump-shelf/articles/01-%E5%B1%B1%E9%A0%82%E4%B8%8A%E7%9A%84%E5%A4%A9%E6%96%87%E5%8F%B0/",
+          "displayOrder": 1,
+          "html": "<article class=\"piece piece-article\" data-type=\"article\" data-style=\"paper\">\n        <h1 class=\"piece-title\">山頂上的天文台</h1>\n<p class=\"piece-subtitle\"></p>\n<p class=\"piece-caption caption-1\"></p>\n<blockquote class=\"piece-quote\"><p>Hollywood</p></blockquote>\n<div class=\"piece-body\"><p>遊客紀念品店外面是一個露台<br>每當夕陽時分遊客滿座<br>紛紛站在落日夕陽下擺拍隔壁山頭上的hollywood</p><p>塔收著空桌上的高腳杯<br>冰咖啡的冰塊通常還沒融化<br>低頭時，他及肩的棕色長髮滑過姣好臉龐</p><p>下班前她的笑容格外輕鬆<br>淡淡的粉紅色唇彩襯著她薄薄長長的唇線<br> 黑色棒球帽固定住他的髮 看起來俐落<br>黑Tshirt上面是天文台的蠟筆風剪影<br>深藍色牛仔褲和運動鞋<br>不容懷疑的 這是一份年輕人的工作<br>只能屬於一個剛踏入社會的過客</p><p>背對夕陽 朝塔走來<br>敏一頭烏黑的短髮<br>白皙的臉龐有兩道稜角堅毅的眉毛<br>個子不高 穿著黑色的tshirt以及卡其色寬版工褲<br>滑板鞋<br>手腕附近有細緻的紋身<br>圖樣抽象<br>風格在幫派和善良之間<br>和他的調調一致，<br>一切標誌明白 不容解釋</p><p>塔跟著敏走進播放室<br>遊客落座 騷動漸息<br>敏按下燈光旋鈕，<br>大廳瞬間變成蒼穹<br>無垠無邊 深不見底<br>伸手不見五指的時候<br>彷彿也突然失重</p><p>宇宙的音樂響起<br>透過環繞的矩陣音響彷彿從虛空的盡頭傳來</p><p>『那是時間的聲音』<br>低沈的解說者的聲音具有催眠效果<br>讓人忘記還有旁白這個身份<br>以為那就是內在的自己在對自己說話</p><p>他們隔著玻璃窗看著無垠蒼穹<br>塔覺得敏是星際迷航的艦長<br>正從太空艦艇的大片透明窗向外看著無垠宇宙</p><p>在重力恢復之前<br>他們在接近光速航行的星艦裡擁吻<br>一次又一次</p></div>\n        <p class=\"piece-meta\">寫於 2026 年 9 月 16 日 11:05 · 改於 2026 年 9 月 16 日 11:05</p>\n        \n      </article>"
+        },
+        {
+          "id": "02-Take me home country road copy",
+          "type": "article",
+          "title": "Take me home, country road",
+          "ready": "publish",
+          "href": "/gump-shelf/articles/02-Take%20me%20home%20country%20road%20copy/",
+          "displayOrder": 1,
+          "html": "<article class=\"piece piece-article\" data-type=\"article\" data-style=\"paper\">\n        <h1 class=\"piece-title\">Take me home, country road</h1>\n<p class=\"piece-subtitle\"></p>\n<p class=\"piece-caption caption-1\"></p>\n<blockquote class=\"piece-quote\"><p>心動的距離</p></blockquote>\n<div class=\"piece-body\"><p>那天他們在草地上唱歌<br>他唱take me home country road<br>唱完以後他們轉頭對視<br>陽光明媚 真的眼睛亮亮的閃爍著光芒<br>嵐看著他 心動的距離<br>真面對他 一秒鐘的時間他們彼此相視 </p><p>那種感覺就是愛</p><p>真撫摸著嵐的眉 靠近他<br>對他說<br>吻我 或者就停留在這裡<br>吻我以後 我們就再也不見<br>停留在這裡 我永遠愛你</p><p>嵐眼眶裡的淚水，一眨就掉了下來<br>滑進耳朵後面的草地裡就消失了<br>幾秒鐘他睜開眼<br>輕輕握著真的手<br>轉頭看著天空</p><p>那天以後，嵐再也沒有和真相見</p><p>心動 <br>和心死<br>原來可以如此徹底</p></div>\n        <p class=\"piece-meta\">寫於 2026 年 9 月 16 日 11:05 · 改於 2026 年 9 月 16 日 11:05</p>\n        \n      </article>"
+        },
+        {
+          "id": "03-小偷",
+          "type": "article",
+          "title": "小偷",
+          "ready": "publish",
+          "href": "/gump-shelf/articles/03-%E5%B0%8F%E5%81%B7/",
+          "displayOrder": 3,
+          "html": "<article class=\"piece piece-article\" data-type=\"article\" data-style=\"paper\">\n        <h1 class=\"piece-title\">小偷</h1>\n<p class=\"piece-subtitle\"></p>\n<p class=\"piece-caption caption-1\"></p>\n<blockquote class=\"piece-quote\"><p>5月 26, 2008</p></blockquote>\n<div class=\"piece-body\"><p>我的家是在一個有點暗的旅館二樓，<br>陳舊的木頭樓梯轉彎上樓，有一個還算寬廣卻不明亮的緩衝空間，<br>我們的房間在上樓之後的右前方，一個不甚起眼的鐵門。</p><p>哥哥正準備拿鑰匙開門時，<br>赫然發現門半掩著，他驚呼：裡面有人...</p><p>我衝進去，揪出一個大約8,9歲大的小女孩，<br>看起來一臉不怕死的模樣，我很生氣的說你拿了什麼，<br>媽媽和哥哥好像覺得我處理就可以，就進客廳休息聊天了。</p><p>我當時不知道是否是因為有什麼私人的東西被翻動，而覺得有些生氣。<br>我把他按在外面的老舊皮沙發上，<br>從他的短褲裡拿出四張新的千元幣，和面額50和100的舊舊的美元鈔。<br>另一個口袋好像是我的什麼小東西，但我不記得了...</p><p>我說我得帶你去警察局，他本來一直很任性，但他說，拜託不要。<br>也許我吃軟不吃硬，但我表面上沒有那麼快妥協，<br>就說：不行，你還這麼小，沒有吃點苦頭是改不掉的...</p><p>我進房和他們說我要帶他去樓下找間警局，他們說好，繼續看電視聊天，<br>我帶著小女孩下樓，但是不太知道要去哪裡，他雖仍然一臉任性，但沒有再次求我。</p><p>其實我已經有點心軟...而也感覺得到他已經察覺了我的轉變</p><p>＊＊＊</p><p>很多年以後，我已經住在另一個地方，<br>背對著門坐在一扇窗旁邊，轉頭看著一樓的窗外，近處有些大樹，<br>高高的天頂的老式房間內照進天光，不晴朗也不灰暗，有種年代感。<br>忽然有個少女滿臉笑意的走進門，幾乎有點蹦跳的來到我面前，<br>他的笑容有點害羞，面容很乾淨漂亮，雖然還青澀著，但也逐漸圓熟了，<br>笑的眼睛是兩條柔和的弧線，我看到他才記得我認識他。<br>他就是多年以前那個小女孩。</p><p>他的樣態中可以知道，他的環境並不好，是沒有靠著大人長大的，<br>眼神清澈，可以知道沒有太多雜亂假面的知識阻礙了純真的思想和感受。<br>他的衣著整潔，穿著一件有些發白的牛仔吊帶褲，黃色的t shirt，<br>短短的清湯掛麵髮型，黑色的頭髮帶著光澤。</p><p>我看著他微笑了。他看見我的笑容，也從喜孜孜的笑，悄悄轉換成帶著情感的微笑。</p><p>我站起身來：哇～已經比我高了呢！我看著他，距離有些近，我們都有些緊張。</p><p>但他沒有後退。我們看著彼此，他慢慢的靠向我，<br>我輕輕的扶著他的肩，接近的過程緩慢又溫柔...<br>還未接觸到彼此，他的一個好友，也是一個笑臉開懷的少女，闖進門來，</p><p>我們有些尷尬的分開，少女偷偷地笑了，其實不是偷偷地，是無法掩藏的笑著，彷彿他們早已等待著這一刻。</p><p>我們在另一張兩人的木頭椅子上坐下，我拿出多年前的那六張紙鈔，<br>它們依然折疊得好好的，只是壓痕更深更顯老舊了，用一張和紙鈔大小相仿的卡片夾住。</p><p>我把它放到他的手裡。</p></div>\n        <p class=\"piece-meta\">寫於 2008 年 5 月 26 日 00:00 · 改於 2026 年 9 月 16 日 11:05</p>\n        \n      </article>"
+        },
+        {
+          "id": "04-閣樓",
+          "type": "article",
+          "title": "閣樓",
+          "ready": "publish",
+          "href": "/gump-shelf/articles/04-%E9%96%A3%E6%A8%93/",
+          "displayOrder": 4,
+          "html": "<article class=\"piece piece-article\" data-type=\"article\" data-style=\"paper\">\n        <h1 class=\"piece-title\">閣樓</h1>\n<p class=\"piece-subtitle\"></p>\n<p class=\"piece-caption caption-1\"></p>\n<blockquote class=\"piece-quote\"><p>忘記你我做不到</p></blockquote>\n<div class=\"piece-body\"><p>那一天是跨年的假期，很冷。</p><p>高中的我正深愛著PJ。他知道。</p><p>他約我去他家住，說可以徹夜聊天，我好期待。</p><p>打電話回家之後，就待在他家了。</p><p>抱著薄薄的棉被他帶著我上了閣樓，他好像想要跟他的家人遠遠隔開，讓我們有自己的一方天地。</p><p>沿著古老的樓梯上閣樓漸濃的香火味道，那是他家的祭堂，和我六股的家一樣，傳統的台灣家庭。</p><p>他的父母年紀有點大，但對我很親切，尤其是他爸爸，看上去是一個很好的人。</p><p>他下樓拿來手提音響，我想他很看重獨處的這一個晚上。</p><p>我對他有一種尊敬，他是糾察隊的大隊長，我只是第三小隊的一個小兵。而PJ是第一小隊的。我和他不能在同一段時間裡執勤，但全隊訓練的時候總能遠遠的看著他。</p><p>身為大隊長，他有一種威嚴，功課特別好，運動美術也樣樣好，高高的個子，還是童軍的一份子。我們仨的共通點是都是自己班的班長，都是糾察隊，也都一起參加了這次的台北區運--翹課的大好時機。</p><p>那晚他找我去他家，我想是因為聖誕夜那天，一起看了夜訪吸血鬼之後，他知道了我的秘密。</p><p>那天他有點無情地反對了我，說我不切實際，我很傷心。兩人蹣跚走出溫暖的速食店，他在天橋上停下腳步，我轉身，兩人面對面，他幫我把夾克的拉鍊拉上。</p><p>那個動作至今我無法忘記，如此溫柔又如此心碎的動作。</p><p>下著雨的車站，我等了很久，搭上陌生的火車站附近的巴士，下著雨的深夜，車上人很少但我還是站著，好像這樣才能不斷重溫他在我面前，緩緩地幫我拉上拉鍊。</p><p>公車廣告裡放著許美靜新發行專輯歌曲，車窗上的雨滴隨著車速，像撲簌簌的眼淚滑過臉頰，把窗外的車燈渲染成模糊的光暈，連傷心都是那麼的浪漫。</p><p>我眼眶紅紅的，不知道是不是因為突如其來的大雨降溫。</p><p>我們在閣樓上聊天，燈光暗淡，濃重的線香的氣息，造就一種非常專屬的氛圍，好像世界上只剩下這一個安全的小天地。</p><p>終於知道他平常制服上飄著的淡淡氣息從何而來。</p><p>一邊聊著天，聽著他喜歡的張宇的錄音帶，果然又聊到了那個話題，他低著頭，慢慢的說：</p><p>『你真的，非常喜歡他』</p><p>肯定句，但是帶著很難置信或者很不願承認的自言自語。我低下頭，他說他很喜歡我們兩人，但是他更喜歡我。</p><p>我很驚訝地看他，我一直覺得我在他眼中就是一個桀驁不馴的小兵，他從未注意的對象。他是出彩的大隊長，功課體育美術樣樣俱佳，學校的風雲人物，而我是個混子，最擅長的就是帶動氣氛，是個總能讓大家開心的開心果。同學說我是萬人迷，我就笑著表演鳳飛飛和潘越雲。</p><p>而PJ有一種冷，天生自帶強烈個人魅力，看似高冷的眼神和一些不落俗套的堅持讓他顯得特別。</p><p>Y和PJ都是170以上的身高，比我高了不少，他們對我都很溫柔，可能就是因為個子比我高了不少。</p><p>我不知道為什麼那麼喜歡PJ，但我記得高一的那一個快放學的傍晚，我們被留下來在川堂選糾察隊。</p><p>本來我對這種守規則的團體毫無興趣，我本身就是叛逆的代表。但是帶我們班的糾察隊學姊很慈愛的說我應該試試看，所以我勉強參加了放學後的一兩次集訓。</p><p>軍訓教官很兇，但後來知道他面惡心善。他很嚴厲的訓練我們。在按照身高排列的環節，我一眼看見PJ，他在我的斜對面那一排，眼神嚴肅的望著前方，川堂的風吹過他額頭，短短的頭髮微微揚起，他青色的襯衫下瘦瘦的手臂微微擺動。他站在那一列隊的第一位，我站在我這一列隊的第三位。那時我還不到166公分，所以能站在守大門的崗位也是很巧吧。於是我們都是自己分隊的大門站崗隊員，而Y即將被選為大隊長。</p><p>看見PJ的那個霎那，彷彿前世今生就確定了。他是那麼的靜定，如此令我深深著迷，而那時我連他的名字都不知道。</p><p>夜深了我們並排躺下，空氣中飄著濃濃的憂鬱，身為童軍的他蓋著薄薄的被子轉身就睡了，而我整夜無眠。</p><p>黎明前的深夜屋裡氣溫正低，我坐起身穿上毛衣，順便做了10個伏地挺身暖暖身子，看著她熟睡的身影，我坐回原地等待天亮，但是好一陣子過去了，看了錶才清晨5點半，我只好又躺回被子裡。</p><p>天漸漸亮起，他轉身向我，躺著的時候他好像個孩子，在我肩膀旁規律的呼吸。<br>我看著天花板，聞著那漸漸變淡的線香氣味。<br>他有意無意的，把手伸出被子，放到我的胸前。<br>儘管穿著毛衣，蓋著被子，我依然心跳不已...</p></div>\n        <p class=\"piece-meta\">寫於 2008 年 5 月 26 日 00:00 · 改於 2026 年 9 月 16 日 11:05</p>\n        \n      </article>"
         }
       ]
     },
@@ -41,11 +99,13 @@
       "href": "/gump-shelf/books/",
       "items": [
         {
-          "id": "pocket-handbook",
-          "title": "口袋手冊",
+          "id": "01-黑傑克",
+          "type": "book",
+          "title": "黑傑克",
           "ready": "publish",
-          "href": "/gump-shelf/books/pocket-handbook/",
-          "displayOrder": 1
+          "href": "/gump-shelf/books/01-%E9%BB%91%E5%82%91%E5%85%8B/",
+          "displayOrder": 1,
+          "html": ""
         }
       ]
     }
